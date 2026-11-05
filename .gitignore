@@ -1,0 +1,17 @@
+# Secrets
+.env
+firmware/robot_code/secrets.h
+
+# Trained models (regenerated on first run)
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Misc
+.DS_Store
+.vscode/
+.idea/
